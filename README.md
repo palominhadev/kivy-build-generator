@@ -11,6 +11,8 @@ Project created to facilitate app generation using the Kivy Python library.
 
 * The docker hub image already contains all the necessary dependencies to generate the apk.
 
+* **Final docker image has not yet been uploaded, finalizing the details.**
+
 ## Installation
 
 * Clone this repository and build the image:
