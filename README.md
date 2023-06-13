@@ -1,17 +1,14 @@
-
 # Kivy-Build-Generator for Docker
 
 Project created to facilitate app generation using the Kivy Python library.
+
+**The docker hub image already contains all the necessary dependencies to generate the apk. :** https://hub.docker.com/r/palominhahub/kivy-build
 
 * You must have docker installed on your machine: https://docs.docker.com/install/
 
 * The buildozer library is already installed by default.
 
 * The Dockerfile does not contain the Android dependencies installed by default, you need to build and install manually.
-
-* The docker hub image already contains all the necessary dependencies to generate the apk.
-
-* **Final docker image has not yet been uploaded, finalizing the details.**
 
 ## Installation
 
