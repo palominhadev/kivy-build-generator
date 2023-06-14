@@ -21,6 +21,8 @@ $ docker build --no-cache -t <your-name>/kivy-build .
 ```
 ## Usage:
 
+**It is necessary to enter the directory of your kivy project to execute the commands below.**
+
 * Command to generate buildozer.spec file:
 ```bash
 $ docker container run --rm -it -v $PWD:/home/app/ <your-name>/kivy-build python3 -m buildozer init
